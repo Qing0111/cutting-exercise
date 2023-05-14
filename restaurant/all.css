@@ -193,7 +193,7 @@ header .container nav form button{
   #banner .banner-img{
     width: 100%;
   }
-  .social{
+  #banner .social{
     bottom: 0;
   }
 }
